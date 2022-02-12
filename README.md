@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mpscahya
 - 👀 I’m interested in Data Science, Data Analyst & Machine Learning
-- 🌱 I’m currently learning Python, R, SQL, Tableau
+- 🌱 I’m have proficiency skill :  Python, R, SQL, Tableau
 - 💞️ I’m looking to collaborate on Classification Modelling
 - 📫 How to reach me : Linked in : linkedin.com/in/mpscahya/
 
